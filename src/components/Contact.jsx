@@ -15,19 +15,19 @@ const Contact = () => {
                     <div>
                         <p className="text-sm text-gray-500"><FaEnvelope />Email</p>
                         <a href="mailto:sohelshaik.it@gmail.com" className="text-lg text-indigo-600 hover:underline">
-                            sohelshaik.it@gmail.com.com
+                            sohelshaik.it@gmail.com
                         </a>
                     </div>
 
                     <div>
                         <p className="text-sm text-gray-500"><FaLinkedin />LinkedIn</p>
                         <a
-                            href="https://www.linkedin.com/in/shaiksohel1"
+                            href="https://www.linkedin.com/in/shaik-sohel1/"
                             target="_blank"
                             rel="noopener noreferrer"
                             className="text-lg text-blue-600 hover:underline"
                         >
-                            linkedin.com/in/shaik-sohel
+                            linkedin.com/shaik-sohel
                         </a>
                     </div>
 
@@ -48,7 +48,6 @@ const Contact = () => {
                         <a
                             href="/MERN.pdf"
                             target="_blank"
-                            rel="noopener noreferrer"
                             className="text-lg text-green-600 hover:underline"
                         >
                             Download Resume
