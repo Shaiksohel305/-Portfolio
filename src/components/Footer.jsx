@@ -7,7 +7,7 @@ export const Footer = () => {
             <p className="mb-1">
                 &copy; {new Date().getFullYear()} Shaik Sohel. All rights reserved.
             </p>
-            <div className="flex justify-center space-x-6 mt-2 flex-row">
+            <div className="flex justify-center space-x-6 mt-2 ">
                 <a
                     href="https://github.com/Shaiksohel305"
                     target="_blank"
