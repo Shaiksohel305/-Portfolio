@@ -4,7 +4,7 @@ This is my **Personal Portfolio Website** built using **React**, **Tailwind CSS*
 
 ## 🚀 Live Demo
 
-🔗 [View Live](https://your-portfolio-demo-link.com)
+🔗 [View Live](https://portfoliosohel.netlify.app)
 
 ## 🛠️ Tech Stack
 
