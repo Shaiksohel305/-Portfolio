@@ -4,7 +4,7 @@ import Project from './Project';
 import Skills from './Skills';
 import Contact from './Contact';
 import { Link } from 'react-router-dom';
-import { Footer } from './footer';
+import { Footer } from './Footer';
 
 const Home = () => {
     return (
