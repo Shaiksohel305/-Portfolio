@@ -28,4 +28,5 @@ This is my **Personal Portfolio Website** built using **React**, **Tailwind CSS*
    git clone https://github.com/Shaiksohel305/-Portfolio.git
 
 npm install
+
 npm run dev
