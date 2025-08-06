@@ -5,9 +5,9 @@ import { Link } from 'react-router-dom'
 const Nav = () => {
     return (
         <nav className='bg-white p-5 shadow-md shadow-gray-400 sticky top-0'>
-            <div className="container mx-auto flex justify-between items-center ">
+            <div className="container mx-auto flex justify-between items-center w-full ">
                 <h2 className='text-xl font-bold'>SOHEL-Dev</h2>
-                <ul className='flex space-x-4'>
+                <ul className='flex space-x-2'>
                     <li><Link to="/" className='hover:text-black-600'><FaHome />Home</Link> </li>
                     <li><Link to="/about" className='hover:text-gray-600 hover:underline'><FaUser />About</Link></li>
                     <li><Link to="/project" className='hover:text-gray-600 hover:underline'><FaFolder />Projects</Link></li>
