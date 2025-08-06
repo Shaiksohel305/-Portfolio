@@ -47,7 +47,6 @@ const Contact = () => {
                         <p className="text-sm text-gray-500"><FaFileAlt />Resume</p>
                         <a
                             href="/MERN.pdf"
-                            download
                             className="text-lg text-green-600 hover:underline"
                         >
                             Download Resume
