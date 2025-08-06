@@ -34,7 +34,7 @@ const Project = () => {
                         <p className="text-gray-700 text-sm">
                             A fully responsive portfolio website <strong>React.js</strong> <strong>Tailwind CSS</strong>.this site follows a clean UI design and mobile-first approach,with smooth navigation and sctions
                         </p>
-                        <a href="" className='font-semibold underline text-gray-600'>View Code</a>
+                        <a href="https://github.com/Shaiksohel305/-Portfolio" className='font-semibold underline text-gray-600'>View Code</a>
                     </div>
                 </div>
             </div>

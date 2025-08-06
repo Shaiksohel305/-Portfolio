@@ -1,4 +1,6 @@
 import React from 'react';
+import { FaEnvelope, FaFileAlt, FaGithub } from 'react-icons/fa';
+import { FaLinkedin } from 'react-icons/fa6';
 
 const Contact = () => {
     return (
@@ -11,14 +13,14 @@ const Contact = () => {
 
                 <div className="text-left space-y-6 bg-white p-8 rounded-xl shadow-lg">
                     <div>
-                        <p className="text-sm text-gray-500">Email</p>
+                        <p className="text-sm text-gray-500"><FaEnvelope />Email</p>
                         <a href="mailto:sohelshaik.it@gmail.com" className="text-lg text-indigo-600 hover:underline">
                             sohelshaik.it@gmail.com.com
                         </a>
                     </div>
 
                     <div>
-                        <p className="text-sm text-gray-500">LinkedIn</p>
+                        <p className="text-sm text-gray-500"><FaLinkedin />LinkedIn</p>
                         <a
                             href="https://www.linkedin.com/in/shaiksohel1"
                             target="_blank"
@@ -30,7 +32,7 @@ const Contact = () => {
                     </div>
 
                     <div>
-                        <p className="text-sm text-gray-500">GitHub</p>
+                        <p className="text-sm text-gray-500"><FaGithub />GitHub</p>
                         <a
                             href="https://github.com/Shaiksohel305"
                             target="_blank"
@@ -42,7 +44,7 @@ const Contact = () => {
                     </div>
 
                     <div>
-                        <p className="text-sm text-gray-500">Resume</p>
+                        <p className="text-sm text-gray-500"><FaFileAlt />Resume</p>
                         <a
                             href="/MERN.pdf"
                             download
