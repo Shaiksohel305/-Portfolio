@@ -46,7 +46,7 @@ const Contact = () => {
                     <div>
                         <p className="text-sm text-gray-500"><FaFileAlt />Resume</p>
                         <a
-                            href="/Professional Sohel_Resume.pdf"
+                            href="/Professional sohel_Resume.pdf"
                             target="_blank"
                             className="text-lg text-green-600 hover:underline"
                         >
