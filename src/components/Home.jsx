@@ -18,7 +18,7 @@ const Home = () => {
                     </h1>
                     <div className='space-x-2 flex justify-center'>
                         <Link to="/project" className='px-4 py-1  border mt-4 text-gray-700 rounded hover:bg-gray-200 shadow-md shadow-blue-200'>View Projects</Link>
-                        <a href="/MERN.pdf" className='px-4 py-1  border mt-4 text-gray-700 rounded hover:bg-gray-200 shadow-md shadow-green-200'>Downlord CV</a>
+                        <a href="/Professional Sohel_Resume.pdf" className='px-4 py-1  border mt-4 text-gray-700 rounded hover:bg-gray-200 shadow-md shadow-green-200'>Downlord CV</a>
                     </div>
                 </div>
                 <img src="sohel.png" className="h-55 w-55 rounded-full shadow-md shadow-blue-900" alt="" />
